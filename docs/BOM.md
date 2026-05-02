@@ -7,4 +7,4 @@
 | 3 | RTC Module | Real time clock Module | 1 |  |  |  |
 | 4 | PCB | Custom PCB | 1 | JLCPCB |  |  |
 | 5 | Screw Terminal | 2-pin, 5.08mm pitch | 2 |  |  |  |
-| 1 | Male Header pins (HUB 75 Header) | 2x8 Pin Header, 2.54mm pitch | 1 |  |  |  |
+| 6 | Male Header pins (HUB 75 Header) | 2x8 Pin Header, 2.54mm pitch | 1 |  |  |  |
