@@ -18,6 +18,9 @@ See detailed system design in ' docs/architecture.md '.
 - Custom PCB
 
 
+# Zine
+<img width="1410" height="2000" alt="Matrix Clock v1" src="https://github.com/user-attachments/assets/c7d995b6-a9da-44ab-92b9-d96d021f93ec" />
+
 
 ## Status
 In designing phase.
