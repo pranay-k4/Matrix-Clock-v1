@@ -29,6 +29,53 @@ See detailed system design in ' docs/architecture.md '.
 - Buttons
 - Custom PCB
 
+# How to Build one of your own
+
+If you would like to build your own Matrix Clock V1, the general process is fairly straightforward.
+
+### 1. Order the Components
+Use the BOM provided in this repository to source all required components, including:
+
+* ESP32 DevKit
+* HUB75 LED Matrix
+* DS3231 RTC Module
+* Push Buttons
+* Connectors and Headers
+* Custom PCB
+
+### 2. Manufacture the PCB
+Export the Gerber files from the PCB folder and upload them to your preferred PCB manufacturer.
+Once the boards arrive, inspect them for any manufacturing defects before assembly.
+
+### 3. Assemble the Hardware
+Solder the required headers, connectors, and sockets onto the PCB.
+
+Then connect:
+
+* ESP32 DevKit
+* RTC Module
+* HUB75 Display
+* External Push Buttons
+
+Double-check all wiring and polarity before applying power.
+
+### 4. Upload the Firmware
+Open the firmware project in the Arduino IDE.
+Install the required libraries and upload the firmware to the ESP32.
+Once uploaded, verify that:
+
+* The display initializes correctly
+* The RTC is detected
+* The buttons function as expected
+
+### 5. Assemble the Enclosure
+3D print the enclosure files located in the CAD folder.
+Mount the display, PCB, and buttons into the enclosure and secure all components.
+
+### 6. Power On
+Connect a suitable 5V power supply and power up the system.
+The display should start in Clock Mode and can be controlled using the external buttons.
+
 
 # Status
 In designing phase.
