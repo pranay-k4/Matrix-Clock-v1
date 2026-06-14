@@ -8,6 +8,8 @@ Matrix Clock V1 was created as a way to learn more about electronics, PCB design
 ### Zine
 <img width="1410" height="2000" alt="Matrix Clock v1" src="https://github.com/user-attachments/assets/c7d995b6-a9da-44ab-92b9-d96d021f93ec" />
 
+# CAD render
+<img width="645" height="402" alt="Opera Snapshot_2026-06-14_113301_cad onshape com" src="https://github.com/user-attachments/assets/561361ad-7791-457b-8ebc-848961ff9c45" />
 
 # Overview
 Matrix Clock V1 is a compact embedded display platform built around an ESP32 and a 64×32 HUB75 LED matrix panel.
@@ -75,9 +77,6 @@ Mount the display, PCB, and buttons into the enclosure and secure all components
 ### 6. Power On
 Connect a suitable 5V power supply and power up the system.
 The display should start in Clock Mode and can be controlled using the external buttons.
-
-# CAD render
-<img width="645" height="402" alt="Opera Snapshot_2026-06-14_113301_cad onshape com" src="https://github.com/user-attachments/assets/561361ad-7791-457b-8ebc-848961ff9c45" />
 
 # Status
 In designing phase.
