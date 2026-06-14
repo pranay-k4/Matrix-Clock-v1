@@ -76,6 +76,8 @@ Mount the display, PCB, and buttons into the enclosure and secure all components
 Connect a suitable 5V power supply and power up the system.
 The display should start in Clock Mode and can be controlled using the external buttons.
 
+# Images
+<img width="645" height="402" alt="Opera Snapshot_2026-06-14_113301_cad onshape com" src="https://github.com/user-attachments/assets/561361ad-7791-457b-8ebc-848961ff9c45" />
 
 # Status
 In designing phase.
