@@ -11,7 +11,7 @@ Matrix Clock V1 was created as a way to learn more about electronics, PCB design
 # CAD render
 <img width="645" height="402" alt="Opera Snapshot_2026-06-14_113301_cad onshape com" src="https://github.com/user-attachments/assets/561361ad-7791-457b-8ebc-848961ff9c45" />
 
-[Cad source](https://cad.onshape.com/documents/1d3eda01ccfd42c3370510ad/w/1b34d9f3683c544fbe63b600/e/64e58fe6b530831de16bd061?renderMode=0&uiState=6a33ac866645666a43711704)
+[CAD SOURCE](https://cad.onshape.com/documents/1d3eda01ccfd42c3370510ad/w/1b34d9f3683c544fbe63b600/e/64e58fe6b530831de16bd061?renderMode=0&uiState=6a33ac866645666a43711704)
 
 # PCB Screenshots
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f24f9a25-e176-4a98-af34-6d013d499f43" />
