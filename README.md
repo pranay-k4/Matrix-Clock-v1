@@ -78,6 +78,7 @@ Once uploaded, verify that:
 
 ### 5. Assemble the Enclosure
 3D print the enclosure files located in the CAD folder.
+![CAD Source]{https://cad.onshape.com/documents/1d3eda01ccfd42c3370510ad/w/1b34d9f3683c544fbe63b600/e/64e58fe6b530831de16bd061?renderMode=0&uiState=6a33a8c96645666a437104ea}
 Mount the display, PCB, and buttons into the enclosure and secure all components.
 
 ### 6. Power On
