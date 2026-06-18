@@ -11,6 +11,12 @@ Matrix Clock V1 was created as a way to learn more about electronics, PCB design
 # CAD render
 <img width="645" height="402" alt="Opera Snapshot_2026-06-14_113301_cad onshape com" src="https://github.com/user-attachments/assets/561361ad-7791-457b-8ebc-848961ff9c45" />
 
+Cad soruce OnShape
+
+# PCB Screenshots
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f24f9a25-e176-4a98-af34-6d013d499f43" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/26eb5514-4b54-4024-9364-6607d50b13df" />
+
 # Overview
 Matrix Clock V1 is a compact embedded display platform built around an ESP32 and a 64×32 HUB75 LED matrix panel.
 The project combines hardware design, PCB design, firmware development, and enclosure CAD into a single integrated system.
