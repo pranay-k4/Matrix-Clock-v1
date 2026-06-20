@@ -6,7 +6,7 @@ I have always enjoyed building things and learning by creating. When I came acro
 
 Matrix Clock V1 was created as a way to learn more about electronics, PCB design, firmware development, and product design while building something useful and fun.
 ### Zine
-<img width="1410" height="2000" alt="Matrix Clock v1" src="https://github.com/user-attachments/assets/c7d995b6-a9da-44ab-92b9-d96d021f93ec" />
+<img width="1410" height="2000" alt="Matrix Clock v1 (1)" src="https://github.com/user-attachments/assets/7a4c0a01-84cc-4239-b1c6-47452b7e362b" />
 
 # CAD render
 <img width="641" height="395" alt="Opera Snapshot_2026-06-19_223908_cad onshape com" src="https://github.com/user-attachments/assets/f5f96a0d-1d2b-4db1-b85f-e83ef487169c" />
