@@ -5,7 +5,8 @@ This is a custom Smart LED matrix display system built using ESP32 and HUB75 RGB
 I have always enjoyed building things and learning by creating. When I came across HUB75 LED matrix displays, they seemed both interesting and challenging, which made me want to explore them further.
 
 Matrix Clock V1 was created as a way to learn more about electronics, PCB design, firmware development, and product design while building something useful and fun.
-### Zine
+
+# Zine
 <img width="1410" height="2000" alt="Matrix Clock v1 (1)" src="https://github.com/user-attachments/assets/7a4c0a01-84cc-4239-b1c6-47452b7e362b" />
 
 # CAD render
@@ -83,9 +84,6 @@ Mount the display, PCB, and buttons into the enclosure and secure all components
 ### 6. Power On
 Connect a suitable 5V power supply and power up the system.
 The display should start in Clock Mode and can be controlled using the external buttons.
-
-# Status
-In designing phase.
 
 # License
 This project is licensed under the MIT License.
