@@ -30,7 +30,6 @@ Also for easy text I learnt about a library [MD_Parola](https://github.com/majic
 
 ## What I did today 
 1.  I made my Github its very basic and I will refine it soon 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDU4NywicHVyIjoiYmxvYl9pZCJ9fQ==-3d83a2c0774a6e61638a079155504bc25c06bf18/Opera Snapshot_2026-04-14_142917_github.com.png)
 
 2. I also tried coding and got familiar with the 8x8 dot Matrix
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDU5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c9f6fd6c4bf6dde3faee3c5ff653ee97185465e5/image.png)
@@ -71,18 +70,12 @@ So today I first started with the system design for my project. I thought first 
 
 But on the second thought I realised it would be messy and would not look good so I just edit the block diagram and made it simple and then added it to the docs folder on my github repo. I then thought that it a Markdown file would be great to explain the system design and power flow. So I made one on in doc folder and started writing the System architecture ( I searched for a fancy word and got this ).
 
-![Opera Snapshot_2026-04-14_190433_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDYyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f09f8e3f54e92711645137c9d40316495d409f6/Opera Snapshot_2026-04-14_190433_github.com.png)
-
 I plan to describe in detail how the system works and also write the components I would be needing.
 This is would help me as I plan to add the BOM too.
 
 I then finalized on this block diagram
 
-![Opera Snapshot_2026-04-14_190657_app.diagrams.net.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDYyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--df5331866013d32ecf5b74c388ef8772473695b1/Opera Snapshot_2026-04-14_190657_app.diagrams.net.png)
-
 The final system architecture md file looks like this :
-
-![Opera Snapshot_2026-04-15_194255_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--e2cdfad2d93b84e72792626565e0b49ec6108458/Opera Snapshot_2026-04-15_194255_github.com.png)
 
 I couldn't fit the entire file in the image but go check out my repo. 
 
@@ -106,14 +99,10 @@ PS : I had to record another 17 min session and edit jounal log for the streak c
 # April 16th ( Day 3 ) : Lots of typing and Internet Issues!!
 Okay so today's day was a lot of typing thinking and searching. So I start the day by writing and planning the firmware. I added a md file in my github repo's doc folder. here I discussed how the firmware would work and its logic I also clarified the User interface there.
 
-![Opera Snapshot_2026-04-16_204250_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTEzNywicHVyIjoiYmxvYl9pZCJ9fQ==--5ecac63153d91348fea9fdbe80b987addcb55cce/Opera Snapshot_2026-04-16_204250_github.com.png)
-
 This way it would help me debug in future and would make it easier for people to look at project with things being organised. But then my internet had some issues :( so I had to I break the session **10 FREAKING TIMES** Man my internet service provider said there is a issue it made me my lookout lapses glitchy and I had some errors! Thats why I had to break it in 3 parts. 
 
 Then for the second part of lookout recording I had to redo and change my work cuz the lookout didn't  capture some work due internet issues
 Then I moved to the readme and updated it its was not good so I changed it and again the lookout didn't record 10-15 mins work cuz of net issue and I didn't check on it cuz I was busy updating the readme. I was worried at this point cuz the recorded time in the 2 part lookout timelapse was abt 36 min even though it should have been 46-51. I had to hurry for my tuition and I was concerned abt the streak challenge.
-
-![Opera Snapshot_2026-04-16_212601_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--2306f63ea9d26753207e50d9f1f4ed82983177b4/Opera Snapshot_2026-04-16_212601_github.com.png)
 
 But I also made a BOM and its v1 cuz I am sure I will update it later for more components especially when I make the pcb. 
 
@@ -147,7 +136,6 @@ PS I had to record another 2-3 min lookout timelapse cuz due to net issue again 
 
 Okay so my experience with firmware is not that good I have written firmware and logic for small Arduino projects but this one is on another level I guess. So today's day was a bit problematic but I managed. So I decided to start with the firmware today I had a clear idea of the logic but then I am not good at coding yet so I searched and well found a [ESP32 HUB75 Matrix Panel DMA library](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA/tree/master) I can use this so I started and tried it.
 
-![Opera Snapshot_2026-04-17_220959_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTQwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--c737f88f63dffbfee76c062dc80228d90b98ec89/Opera Snapshot_2026-04-17_220959_github.com.png)
 
 ## What I learnt today
 Tbh it was confusing at first and well I tried to write code and understand at same time cuz I was recording and well something clicked but the examples were a little complex cuz I don't have much experience with display so after some research I learnt that this library is kinda similar to the MAX7219 MD_Parola like the purpose is kinda same.
@@ -640,6 +628,7 @@ Okay so what I did today quickly was complete the zine and man it looks pretty a
 I also made some changes in the CAD it was a huge error I forgot to add the holes for the button  _Still can't believe I forgot that but anyways it fine now!_
 
 And here is the Zine finally have a look 
+
 ![Matrix Clock v1.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1MzIsInB1ciI6ImJsb2JfaWQifX0=--d8ff2fb324a43937f7c104a3769d9f8a830ea964/Matrix Clock v1.png)
 
 
