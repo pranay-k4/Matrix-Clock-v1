@@ -30,7 +30,7 @@ Also for easy text I learnt about a library [MD_Parola](https://github.com/majic
 
 ## What I did today 
 1.  I made my Github its very basic and I will refine it soon 
-![Opera Snapshot_2026-04-14_142917_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDU4NywicHVyIjoiYmxvYl9pZCJ9fQ==--3d83a2c0774a6e61638a079155504bc25c06bf18/Opera Snapshot_2026-04-14_142917_github.com.png)
+![Opera Snapshot_2026-04-14_142917_github.com.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDU4NywicHVyIjoiYmxvYl9pZCJ9fQ==-3d83a2c0774a6e61638a079155504bc25c06bf18/Opera Snapshot_2026-04-14_142917_github.com.png)
 
 2. I also tried coding and got familiar with the 8x8 dot Matrix
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDU5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c9f6fd6c4bf6dde3faee3c5ff653ee97185465e5/image.png)
